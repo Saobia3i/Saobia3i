@@ -24,12 +24,13 @@
 - 💻 Building web & mobile apps with modern Mern & Next.js 
 - 🤖 Active in **AUST Robotics Club** – web team
 - 🎯 Currently focusing on **Next.js**,**AI Automation** & **Cyber Security**.
-- 👯 I’m looking to collaborate on creating any kind of websites for **e‑commerce, edtech**, etc.
+- 👩‍💻 I’m looking to collaborate on creating any kind of websites for **e‑commerce, edtech**, etc.
 
 
 ---
 
-## <ins>🧩 Featured Project – Tensor Security Academy (TSA)</ins>
+## <ins>🧩 Featured Project </ins>
+<ins>**Tensor Security Academy (TSA)**</ins>
 
 A modern cybersecurity & AI-focused edtech landing page built with **Next.js**, rich animations and responsive design.
 
@@ -42,7 +43,18 @@ A modern cybersecurity & AI-focused edtech landing page built with **Next.js**, 
   - MUI + Emotion
 - 🎯 Focus: strong visual identity, smooth UX, and marketing-ready content structure
 
----
+ <ins>**QuoteVerse – Random Quote Generator**</ins>
+
+  A minimal, responsive React app that fetches and displays random quotes to keep you inspired.
+  
+  - 🚀 Live: https://quote-verse-psi.vercel.app/
+  - ✨ Tech:
+      - React.js
+      - Tailwind CSS
+      - Framer Motion
+      - Lucide React
+      - MUI + Emotion
+      
 
 ## <ins>🧑‍💻 My Portfolio</ins>
 
