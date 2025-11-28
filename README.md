@@ -1,10 +1,10 @@
 <p align="center">
   <img
-    src="https://ik.imagekit.io/ekb0d0it0/Saobia%20Islam.png"
+    src="https://ik.imagekit.io/ekb0d0it0/saobia_islam.png"
     alt="Saobia Islam"
     style="
-      width: 150px;
-      height: 190px;
+      width: 250px;
+      height: 250px;
       border-radius: 60%;
       object-fit: cover;
       border: 4px solid #ffffff;
