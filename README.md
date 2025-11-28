@@ -22,7 +22,7 @@
 
 - 🎓 CSE student at **AUST**
 - 💻 Building web & mobile apps with modern Mern & Next.js 
-- 🤖 Active in **AUST Robotics Club** – web team & event platforms
+- 🤖 Active in **AUST Robotics Club** – web team
 - 🎯 Currently focusing on **Next.js**,**AI Automation** & **Cyber Security**.
 - 👯 I’m looking to collaborate on creating any kind of websites for **e‑commerce, edtech**, etc.
 
