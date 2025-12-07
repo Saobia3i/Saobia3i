@@ -35,7 +35,7 @@
 
 A modern cybersecurity & AI-focused edtech landing page built with **Next.js**, rich animations and responsive design.
 
-- 🚀 Live: https://tsa-edtech-company.vercel.app/  
+- 🚀 Live: https://tsa-1-1.vercel.app/  
 - ✨ Tech:
   - Next.js (App Router)
   - Tailwind CSS
