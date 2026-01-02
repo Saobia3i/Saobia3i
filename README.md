@@ -103,6 +103,6 @@ More detailed graphs & timelines:
 ## <ins>📬 Connect With Me</ins>
 
 - 💼 GitHub: [Saobia3i](https://github.com/Saobia3i)  
-- 🌐 Portfolio: islamsaobia.vercel.app 
+- 🌐 Portfolio: [islamsaobia.vercel.app ](https://islamsaobia.vercel.app)
 - 📧 Email: [islamsaobia@gmail.com](mailto:islamsaobia@gmail.com)
 
