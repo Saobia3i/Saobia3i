@@ -35,7 +35,7 @@
 
 A modern cybersecurity & AI-focused edtech landing page built with **Next.js**, rich animations and responsive design.
 
-- 🚀 Live: https://tsa-neon-iota.vercel.app/  
+- 🚀 Live: https://tensorsecurityacademy.com 
 - ✨ Tech:
   - Next.js (App Router)
   - Tailwind CSS
@@ -78,7 +78,7 @@ A full‑stack smart canteen management web app that streamlines ordering, menu 
 
 Check out more of my work here:
 
-🔗 **Portfolio:** https://portfolio-one-mu-x50381zq9b.vercel.app/
+🔗 **Portfolio:** https://islamsaobia.vercel.app
 
 ---
 
@@ -103,6 +103,6 @@ More detailed graphs & timelines:
 ## <ins>📬 Connect With Me</ins>
 
 - 💼 GitHub: [Saobia3i](https://github.com/Saobia3i)  
-- 🌐 Portfolio: https://portfolio-one-mu-x50381zq9b.vercel.app/  
+- 🌐 Portfolio: islamsaobia.vercel.app 
 - 📧 Email: [islamsaobia@gmail.com](mailto:islamsaobia@gmail.com)
 
