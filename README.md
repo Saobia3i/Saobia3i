@@ -65,7 +65,7 @@ A minimal, responsive React app that fetches and displays random quotes to keep 
 A full‑stack smart canteen management web app that streamlines ordering, menu management, and staff operations.
 
 - 🌐 Customer/Staff Frontend: https://i-canteen.vercel.app/  
-- 🛠 Backend API: https://icanteen-production.up.railway.app/  
+- 🛠 Backend link: https://icanteen-production.up.railway.app/  
 - ✨ Tech:
   - Frontend: React.js, React Router, Ant Design, Tailwind CSS
   - Backend: **Laravel (PHP)**, REST API
