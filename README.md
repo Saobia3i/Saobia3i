@@ -7,9 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://github.com/Saobia3i">
-    <img src="https://img.shields.io/github/repos/Saobia3i?style=for-the-badge&color=73d2de&labelColor=001f3f" alt="Total Repositories" />
-  </a>
-  <a href="https://github.com/Saobia3i">
     <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
   </a>
 </p>
@@ -221,7 +218,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/repos/Saobia3i?style=for-the-badge&color=73d2de&labelColor=001f3f" alt="Total Repositories" />
   <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
 </p>
 
