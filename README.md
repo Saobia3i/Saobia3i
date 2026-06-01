@@ -74,13 +74,13 @@
 <h3 align="center">「 Technical Architecture &amp; Animated Stack 」</h3>
 
 <p align="center">
-  <img src="./techstack.svg" alt="Technical Architecture Pyramid" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saobia3i/Saobia3i/main/techstack.svg" alt="Technical Architecture Pyramid" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="./skills.svg" alt="Technical Proficiency Dashboard" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saobia3i/Saobia3i/main/skills.svg" alt="Technical Proficiency Dashboard" width="100%" />
 </p>
 
 <br>
