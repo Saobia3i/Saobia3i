@@ -162,15 +162,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=GitHub+Performance+Metrics;Commit+Streaks+%26+Language+Stats;Saobia%27s+GitHub+Impact" alt="Stats Heading" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saobia3i&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
 <br>
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Saobia3i&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d0d&hide_border=true&title_color=7b2ff7&icon_color=73d2de&text_color=a8d8e0" height="200" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saobia3i&layout=compact&langs_count=8&bg_color=0d0d0d&hide_border=true&title_color=7b2ff7&icon_color=73d2de&text_color=a8d8e0" height="200" /> |
+| <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Saobia3i&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d0d&hide_border=true&title_color=7b2ff7&icon_color=73d2de&text_color=a8d8e0" height="200" /> | <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Saobia3i&layout=compact&langs_count=8&bg_color=0d0d0d&hide_border=true&title_color=7b2ff7&icon_color=73d2de&text_color=a8d8e0" height="200" /> |
 
 <br>
 
