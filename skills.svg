@@ -170,7 +170,7 @@
     <text x="494" y="146" font-family="Arial, sans-serif" font-size="10.5" fill="#a4b8cf">Firebase · MS SQL Server</text>
   </g>
     
-  <!-- CARD 5: DevOps & Version Control -->
+  <!-- CARD 5: DevOps &amp; Version Control -->
   <g>
     <rect x="440" y="192" width="400" height="120" rx="8" fill="#040a12" stroke="#152233" stroke-width="1"/>
     <rect x="440" y="192" width="3" height="120" rx="1.5" fill="url(#g2)"/>
@@ -184,7 +184,7 @@
       
     
     <!-- Title + % (All High-Contrast White and Cyan) -->
-    <text x="494" y="224" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">DevOps & Version Control</text>
+    <text x="494" y="224" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">DevOps &amp; Version Control</text>
     <text x="820" y="224" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#73d2de" text-anchor="end">78%</text>
     
     <!-- Progress bar track -->
@@ -197,7 +197,7 @@
     <text x="494" y="278" font-family="Arial, sans-serif" font-size="10.5" fill="#a4b8cf">Railway · Render</text>
   </g>
     
-  <!-- CARD 6: Design & Tooling -->
+  <!-- CARD 6: Design &amp; Tooling -->
   <g>
     <rect x="440" y="324" width="400" height="120" rx="8" fill="#040a12" stroke="#152233" stroke-width="1"/>
     <rect x="440" y="324" width="3" height="120" rx="1.5" fill="url(#g2)"/>
@@ -211,7 +211,7 @@
       
     
     <!-- Title + % (All High-Contrast White and Cyan) -->
-    <text x="494" y="356" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">Design & Tooling</text>
+    <text x="494" y="356" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">Design &amp; Tooling</text>
     <text x="820" y="356" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#73d2de" text-anchor="end">80%</text>
     
     <!-- Progress bar track -->

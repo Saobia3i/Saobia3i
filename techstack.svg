@@ -93,15 +93,15 @@
   <!-- T2 Label -->
   <path d="M 720 280 L 755 280 L 770 265 L 900 265" stroke="url(#line-grad-purple)" stroke-width="0.8" fill="none" />
   <circle cx="720" cy="280" r="2.5" fill="#7b2ff7" />
-  <text class="tier-label" x="775" y="260" fill="#7b2ff7">T2 // WEB & FRAMEWORKS</text>
+  <text class="tier-label" x="775" y="260" fill="#7b2ff7">T2 // WEB &amp; FRAMEWORKS</text>
 
   <!-- T3 Label -->
   <path d="M 835 400 L 860 400 L 875 385 L 900 385" stroke="url(#line-grad-cyan)" stroke-width="0.8" fill="none" />
   <circle cx="835" cy="400" r="2.5" fill="#73d2de" />
-  <text class="tier-label" x="900" y="380" fill="#73d2de" text-anchor="end">T3 // DATABASES & UI LIBRARIES</text>
+  <text class="tier-label" x="900" y="380" fill="#73d2de" text-anchor="end">T3 // DATABASES &amp; UI LIBRARIES</text>
 
   <!-- T4 Label -->
-  <text class="tier-label" x="900" y="505" fill="#7b2ff7" text-anchor="end">T4 // DEVOPS, UTILITIES & FRONTEND CORE</text>
+  <text class="tier-label" x="900" y="505" fill="#7b2ff7" text-anchor="end">T4 // DEVOPS, UTILITIES &amp; FRONTEND CORE</text>
 
   <!-- Center dashed blueprint guide line -->
   <line x1="480" y1="40" x2="480" y2="520" stroke="#152233" stroke-width="1" stroke-dasharray="2 4" />
