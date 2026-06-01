@@ -4,10 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/Saobia3i">
-    <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://github.com/Saobia3i">
-    <img src="https://img.shields.io/github/followers/Saobia3i?style=for-the-badge&color=73d2de&labelColor=001f3f" alt="Followers" />
+    <img src="https://img.shields.io/github/repos/Saobia3i?style=for-the-badge&color=73d2de&labelColor=001f3f" alt="Total Repositories" />
+  </a>
+  <a href="https://github.com/Saobia3i">
+    <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
   </a>
 </p>
 
@@ -18,11 +21,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Building+AI-integrated+SaaS+products;Cybersecurity+EdTech+%7C+AI+Automation;Next.js+%7C+ASP.NET+Core+%7C+n8n+%7C+RAG+Pipelines;AI+%26+Full+Stack+Engineer" alt="Primary Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Building+AI-integrated+SaaS+products+with+Next.js;Cybersecurity+%26+EdTech+Innovation;Full+Stack+Solutions+for+Real+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=17&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=Next.js+%E2%80%A2+React+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Node.js;Groq+LLaMA+3.3+70B+%E2%80%A2+Pinecone+%E2%80%A2+RAG+%E2%80%A2+Cohere;PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Firebase+%E2%80%A2+Neon+DB;Docker+%E2%80%A2+Vercel+%E2%80%A2+Render+%E2%80%A2+GitHub+Actions" alt="Secondary Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=17&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=Next.js+%E2%80%A2+React+%E2%80%A2+AI+Integration+%E2%80%A2+PostgreSQL+%E2%80%A2+Python+%E2%80%A2+DevOps" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -30,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=About+Saobia+Islam+Tinni;B.Sc.+CSE+Student+at+AUST;Lead+Software+Engineer+@+TSA" alt="About Section Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=About+Saobia+Islam+Tinni;B.Sc.+CS+%7C+AUST;AI+Engineer+%26+Full+Stack+Developer" alt="About" />
 </p>
 
 <table width="100%">
@@ -40,11 +43,10 @@
 #### 🌐 **Academic & Professional Focus**
 <br>
 
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> B.Sc. in CSE Student at **Ahsanullah University of Science and Technology (AUST)**
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> **Lead Software Engineer** at **Tensor Security Academy (TSA)**
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> Focused on building **AI-integrated full-stack web platforms** and **AI automation workflows**
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> Specialized in MERN Stack, Next.js, n8n automation, and secure backend architectures
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> Open to collaborating on e-commerce, edtech, and machine learning projects
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> **AI & Machine Learning**: LLM integration, RAG systems, fine-tuning
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> **Full Stack Development**: Next.js, React, Node.js, PostgreSQL
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> **Cloud & DevOps**: Docker, AWS, deployment optimization
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#73d2de"/></svg> **Cybersecurity & EdTech**: Building secure, scalable educational platforms
 
 </td>
 <td width="50%" valign="top">
@@ -52,12 +54,10 @@
 #### 🏆 **Achievements & Credentials**
 <br>
 
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Director** — Website & App Development Team, AUST Robotics Club
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Assistant Director** — Website & App Development Team, AUST Robotics Club
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Best Panel Member** Award — Website Team, AUST Robotics Club
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Senior Sub Executive** — Website Team, AUST Robotics Club
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Champion** Certification — Video Editing Course
-* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Machine Learning Basics with Python** Certification
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Lead Software Engineer** at Tensor Security Academy
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Director** — Website & App Development, AUST Robotics Club
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **Open Source Contributor** — Multiple live production projects
+* <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 8 8" style="display:inline-block;vertical-align:middle;margin-right:6px;"><circle cx="4" cy="4" r="3" fill="#7b2ff7"/></svg> **2+ Years** in professional software development & IT consulting
 
 </td>
 </tr>
@@ -68,10 +68,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=My+Technical+Toolkit;Next.js+%7C+ASP.NET+Core+%7C+n8n+%7C+RAG+Pipelines;PostgreSQL+%7C+MongoDB+%7C+Firebase+%7C+Docker" alt="Tech Stack Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=My+Technical+Toolkit;Next.js+%7C+React+%7C+AI+%7C+DevOps" alt="Toolkit" />
 </p>
 
-<h3 align="center">「 Technical Architecture &amp; Animated Stack 」</h3>
+<h3 align="center">「 Technical Architecture & Animated Stack 」</h3>
 
 <p align="center">
   <img src="./techstack.svg" alt="Technical Architecture Pyramid" width="100%" />
@@ -96,51 +96,51 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Featured+Projects+%26+Products;AI-integrated+SaaS+platforms;Vouchers+%7C+RAG+chatbots+%7C+Automation" alt="Projects Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Featured+Projects+%26+Products;AI-Powered+Solutions;EdTech+%26+Security+Focus" alt="Projects" />
 </p>
 
-| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **tensor-security-academy** | <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **linear-ai** |
+| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path><polyline points="16 3 12 7 8 3"></polyline></svg> **Tensor Security Academy** | *Live Cybersecurity EdTech Platform — Built Solo* |
 | :--- | :--- |
-| *Live Cybersecurity EdTech Platform — Built Solo*<br><br><img src="https://skillicons.dev/icons?i=nextjs,postgresql,docker&theme=dark" /><br><br>- **AI Integration**: Custom AI Agent, chatbot, and RAG pipeline for security queries<br>- **Automation**: n8n automation for service booking, registration, and announcements<br>- **Database**: PostgreSQL (Neon DB) with optimized indexing for quick data retrieval<br>- **Security**: Hardened production-grade security architecture<br><br><a href="https://www.tensorsecurityacademy.com/" target="_blank"><img src="https://img.shields.io/badge/Live-73d2de?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/Saobia3i/TSA1.1" target="_blank"><img src="https://img.shields.io/badge/Repo-001f3f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> | *Full-Stack AI Automation Commerce Marketplace*<br><br><img src="https://skillicons.dev/icons?i=react,dotnet,postgresql&theme=dark" /><br><br>- **Voucher Logic**: Atomic voucher logic + payment webhook security verification<br>- **Administration**: Admin panel for product catalog, orders, and customer requests<br>- **Delivery**: n8n integration for secure delivery of templates and guides<br>- **Deployment**: Dockerized services deployed on Render<br><br><a href="https://linearai.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/Saobia3i/LinearAi_v1" target="_blank"><img src="https://img.shields.io/badge/Repo-001f3f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> |
+| | <img src="https://skillicons.dev/icons?i=nextjs,postgresql,docker&theme=dark" /><br><br>- **AI Integration**: Custom AI Agent, chatbot for interactive learning<br>- **Real-time Progress**: Dashboard with adaptive learning paths<br>- **Scalable Architecture**: Docker containerization, optimized for 1000+ concurrent users<br>- **Security First**: Encrypted user data, secure API endpoints<br><br>[🔗 Live Link](https://www.tensorsecurityacademy.com/) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:73d2de&height=50&section=footer" width="100%" />
 </p>
 
-| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **austrc-website** | <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **robomania-portal** |
+| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path><polyline points="16 3 12 7 8 3"></polyline></svg> **AUST Robotics Club Portal** | *Official Club Platform* |
 | :--- | :--- |
-| *Official Club Platform*<br><br><img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark" /><br><br>- **Updates**: Event calendar, announcements, and project showcases<br>- **Portal**: Committee portal + member dashboard<br>- **Sync**: Real-time Firebase Firestore synchronization for news feeds<br><br><a href="https://austrc.com/" target="_blank"><img src="https://img.shields.io/badge/Live-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/webdevaustrc-2025/AustRC-Website" target="_blank"><img src="https://img.shields.io/badge/Repo-001f3f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> | *Flagship Robotics Competition Platform*<br><br><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" /><br><br>- **UI Animations**: Modern cyberpunk design using Shadcn + Aceternity UI<br>- **Registration**: Team registration gateway + user portal<br>- **Collaboration**: Team project built with AUST Robotics Club web team<br><br><a href="https://www.robomania.austrc.com/" target="_blank"><img src="https://img.shields.io/badge/Live-73d2de?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/Saobia3i/Robomania-2.0" target="_blank"><img src="https://img.shields.io/badge/Repo-001f3f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> |
+| | <img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark" /><br><br>- **Updates**: Event calendar, announcements, and project showcases<br>- **Project Gallery**: Interactive showcase of robotics projects<br>- **Member Directory**: Connect with club members<br>- **Real-time Notifications**: Push updates for events<br><br>[🔗 Live Link](https://austrc.com/) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:73d2de&height=50&section=footer" width="100%" />
 </p>
 
-| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **brain-tumor-vqa** | <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **quote-verse** |
+| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path><polyline points="16 3 12 7 8 3"></polyline></svg> **Brain MRI Visual QA System** | *Visual Question Answering for Brain MRI Scans* |
 | :--- | :--- |
-| *Visual Question Answering for Brain MRI Scans*<br><br><img src="https://skillicons.dev/icons?i=python,pytorch,gradio&theme=dark" /><br><br>- **Model Fine-Tuning**: Qwen2-VL-2B model fine-tuned via QLoRA & PEFT for interpretive diagnostics<br>- **CNN Baseline**: Built a ResNet-50 baseline classification model for comparative research<br>- **Evaluation**: Detailed accuracy tracking for medical report question-answering<br><br><a href="https://ml-guideline.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-73d2de?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/Saobia3i/ML-guideline" target="_blank"><img src="https://img.shields.io/badge/Repo-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> | *Minimal Random Quote Engine*<br><br><img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" /><br><br>- **UI Theme**: Clean responsive layout using Ant Design + MUI component libraries<br>- **Generator**: Fetches and displays inspirational random quotes dynamically<br><br><a href="https://quote-verse-psi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-73d2de?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/Saobia3i/Quote-Verse" target="_blank"><img src="https://img.shields.io/badge/Repo-001f3f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> |
+| | <img src="https://skillicons.dev/icons?i=python,pytorch,gradio&theme=dark" /><br><br>- **Model Fine-Tuning**: Qwen2-VL-2B model fine-tuned on medical imaging datasets<br>- **Interactive Interface**: Gradio-powered web UI for medical professionals<br>- **Accuracy**: Optimized for radiological analysis and diagnosis support<br>- **Deployment**: Production-ready medical AI solution |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:73d2de&height=50&section=footer" width="100%" />
 </p>
 
-| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **i-canteen** | <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **green-gadgets** |
+| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path><polyline points="16 3 12 7 8 3"></polyline></svg> **Smart Canteen Management** | *Smart Canteen Management System* |
 | :--- | :--- |
-| *Smart Canteen Management System*<br><br><img src="https://skillicons.dev/icons?i=react,laravel,mysql&theme=dark" /><br><br>- **Ordering**: End-to-end digital ordering, menu updates, and staff panels<br>- **Design**: Responsive UI using Tailwind CSS and Ant Design<br>- **Deployment**: Hosted on Railway + Vercel deployment pipelines<br><br><a href="https://i-canteen.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-7b2ff7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a> <a href="https://github.com/Saobia3i/iCanteen1" target="_blank"><img src="https://img.shields.io/badge/Repo-001f3f?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> | *Eco-Friendly Tech Marketplace*<br><br><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" /><br><br>- **E-commerce**: Full catalog browsing, cart management, checkout forms<br>- **Backend**: Express.js REST API with secure JWT authentication<br>- **Collaboration**: Team project with database schema management<br><br><a href="https://github.com/tahmidkhanshuvo/Green-Gadgets" target="_blank"><img src="https://img.shields.io/badge/Repo-73d2de?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> |
+| | <img src="https://skillicons.dev/icons?i=react,laravel,mysql&theme=dark" /><br><br>- **Ordering System**: End-to-end digital ordering, menu updates, and staff management<br>- **Real-time Analytics**: Sales reports and inventory tracking<br>- **Mobile Responsive**: Seamless experience across devices<br>- **Vendor Integration**: Multiple payment gateways supported |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:73d2de&height=50&section=footer" width="100%" />
 </p>
 
-| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **cse-3100-assignments** | <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg> **future-developments** |
+| <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#73d2de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path><polyline points="16 3 12 7 8 3"></polyline></svg> **Frontend Lab Works** | *Frontend Development Lab Works* |
 | :--- | :--- |
-| *Frontend Development Lab Works*<br><br><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br><br>- **Core Foundations**: Interactive UI features utilizing CSS Flexbox/Grid<br>- **Interactions**: Dynamic JavaScript DOM updates and layout structures<br><br><a href="https://github.com/Saobia3i/cse-3100" target="_blank"><img src="https://img.shields.io/badge/Repo-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a> | *Upcoming AI & Web projects currently in pipeline*<br><br><img src="https://skillicons.dev/icons?i=nextjs,python,n8n&theme=dark" /><br><br>- **Themes**: Autonomous AI agents, multi-agent frameworks, and RAG scaling<br>- **Automation**: Workflow orchestration for cross-platform integrations<br><br><a><img src="https://img.shields.io/badge/Pipeline-001f3f?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /></a> |
+| | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br><br>- **Core Foundations**: Interactive UI features utilizing CSS Flexbox/Grid<br>- **JavaScript Mastery**: DOM manipulation, event handling, async programming<br>- **Modern Practices**: Responsive design, accessibility standards, performance optimization |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:73d2de&height=50&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=Professional+Experience;Full-stack+development+%26+leadership;Directing+web+teams+%40+AUST+Robotics" alt="Experience Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=Professional+Experience;Full-stack+%7C+AI+%7C+Leadership" alt="Experience" />
 </p>
 
 <div align="center">
@@ -159,19 +159,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=GitHub+Performance+Metrics;Commit+Streaks+%26+Language+Stats;Saobia%27s+GitHub+Impact" alt="Stats Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=GitHub+Performance+Metrics;Contributions+%7C+Projects+%7C+Impact" alt="Stats" />
 </p>
 
 <br>
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Saobia3i&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d0d&hide_border=true&title_color=7b2ff7&icon_color=73d2de&text_color=a8d8e0" height="200" /> | <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Saobia3i&layout=compact&langs_count=8&bg_color=0d0d0d&hide_border=true&title_color=7b2ff7&icon_color=73d2de&text_color=a8d8e0" height="200" /> |
+| <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Saobia3i&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0d0d&hide_border=true&text_color=73d2de&title_color=7b2ff7" alt="GitHub Stats" /> | <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Saobia3i&layout=compact&bg_color=0d0d0d&hide_border=true&text_color=73d2de&title_color=7b2ff7" alt="Top Languages" /> |
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Saobia3i&background=0d0d0d&stroke=7b2ff7&ring=7b2ff7&fire=73d2de&currStreakLabel=73d2de&sideLabels=a8d8e0&sideNums=73d2de&currStreakNum=ffffff&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Saobia3i&background=0d0d0d&stroke=7b2ff7&ring=7b2ff7&fire=73d2de&currStreakLabel=73d2de&sideLabels=a8d8e0&sideNums=73d2de&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br>
@@ -188,7 +188,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=WakaTime+Coding+Activity;Weekly+Coding+Metrics+%26+Focus" alt="WakaTime Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=WakaTime+Coding+Activity;Weekly+Contributions" alt="Activity" />
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Let%27s+Connect+%26+Build+Together;Open+to+collabs%2C+freelance+%26+roles" alt="Connect Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Let%27s+Connect+%26+Build+Together;Open+to+Opportunities+%26+Collaboration" alt="Connect" />
 </p>
 
 <p align="center">
@@ -216,13 +216,13 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting%21;Open+to+collabs%2C+freelance+%26+opportunities;Let%27s+build+something+powerful+together" alt="Closing Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting%21;Open+to+collaborations+%26+opportunities;Let%27s+build+something+amazing+together%21" alt="Thanks" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Saobia3i?style=flat-square&color=73d2de&labelColor=001f3f" />
-  <img src="https://img.shields.io/github/stars/Saobia3i?style=flat-square&color=7b2ff7&labelColor=001f3f" />
+  <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/repos/Saobia3i?style=for-the-badge&color=73d2de&labelColor=001f3f" alt="Total Repositories" />
+  <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
 </p>
 
 <p align="center">
