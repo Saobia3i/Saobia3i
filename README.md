@@ -199,16 +199,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=GitHub+Activity+Highlights" alt="Activity Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=GitHub+Activity+Highlights" alt="Activity Highlights" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Saobia3i&query=public_repos&style=for-the-badge&label=Total%20Contributions&color=73d2de&labelColor=001f3f" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-dynamic/json?url=https://api.github.com/users/Saobia3i&query=public_repos&style=plastic&color=cyan&labelColor=001f3f" alt="Total Contributions" />
   <img src="https://streak-stats.demolab.com/?user=Saobia3i&background=transparent&stroke=7b2ff7&ring=7b2ff7&fire=73d2de&hide_border=true&type=svg" alt="Contribution Streak" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=is:pr+author:Saobia3i&query=total_count&style=for-the-badge&label=Open%20PRs&color=7b2ff7&labelColor=001f3f" alt="Open PRs" />
 </p>
 
 <p align="center">
@@ -235,7 +231,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=flat-square" alt="Daily Profile Views" />
-  <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/Saobia3i?style=flat-square&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
 </p>
 
 <p align="center">
