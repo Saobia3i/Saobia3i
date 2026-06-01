@@ -9,9 +9,6 @@
   <a href="https://github.com/Saobia3i">
     <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
   </a>
-  <a href="https://github.com/Saobia3i">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Saobia3i&query=followers&style=for-the-badge&color=73d2de&label=Followers&labelColor=001f3f" alt="Followers" />
-  </a>
 </p>
 
 <p align="center">
@@ -237,9 +234,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=flat-square" alt="Daily Profile Views" />
   <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Saobia3i&query=followers&style=for-the-badge&color=73d2de&label=Followers&labelColor=001f3f" alt="Followers" />
 </p>
 
 <p align="center">
