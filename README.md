@@ -3,15 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saobia3i">
-    <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Saobia3i">
-    <img src="https://img.shields.io/github/stars/Saobia3i?style=for-the-badge&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-001f3f?style=flat-square&logo=googlemaps&logoColor=73d2de&labelColor=000000" alt="Location" />
   <img src="https://img.shields.io/badge/AI%20%26%20Full%20Stack%20Engineer-7b2ff7?style=flat-square&logo=cpu&logoColor=73d2de&labelColor=000000" alt="Role" />
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-001f3f?style=flat-square&logo=git&logoColor=73d2de&labelColor=000000" alt="Collaboration" />
@@ -230,6 +221,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Saobia3i&query=followers&style=flat-square&label=Profile%20Views&color=7b2ff7&labelColor=001f3f" alt="All-time Profile Views" />
   <img src="https://komarev.com/ghpvc/?username=Saobia3i&color=7b2ff7&style=flat-square" alt="Daily Profile Views" />
   <img src="https://img.shields.io/github/stars/Saobia3i?style=flat-square&color=7b2ff7&labelColor=001f3f" alt="Total Stars" />
 </p>
