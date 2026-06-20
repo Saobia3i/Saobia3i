@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=About+Saobia+Islam+Tinni;B.Sc.+CS+%7C+AUST;AI+Engineer+%26+Full+Stack+Developer" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=73D2DE&center=true&vCenter=true&width=700&lines=About+Saobia+Islam+Tinni;B.Sc.+CSE+%7C+AUST;AI+Engineer+%26+Full+Stack+Developer" alt="About" />
 </p>
 
 <table width="100%">
